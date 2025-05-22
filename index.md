@@ -1,9 +1,9 @@
 ---
 ---
 
-# mvaudel's Website
+# Early signs
 
-An engaging 1-3 sentence description of your lab.
+Our research team is looking for early signs of pathogenic health trajectories.
 
 {% include section.html %}
 
@@ -11,7 +11,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research group identifies early warning signs for health trajectories that increase the risk of disease. We focus mainly on metabolic health during pregnancy and early childhood using multidisciplinary research on large cohorts and registries.
 
 {%
   include button.html
@@ -34,7 +34,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Our research group establishes both new knowledge and methods. Our flagship projects include:
+- _Bioinformatics for Proteogenomics - looking up the answer in the back of the book_, a project funded by a starting grant from the [Norwegian Research Council](forskningsradet.no)
+- _Temporary inconvenience or early warning signs? A new take on maternal symptoms in early pregnancy and their consequences. AuditeMatrem_, a project funded by a consolidator grant from the [European Research Council](erc.europa.eu)
 
 {%
   include button.html
@@ -59,7 +61,9 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+We are located at the Children and Youth Clinic of the Haukeland University hospital in Bergen Norway, affiliated to the University of Bergen, the Norwegian Institute of Public Health, and the Computational Biology Unit.
+
+Are you interested in our research? [Get in touch!](mailto:marc.vaudel@uib.no)
 
 {%
   include button.html
