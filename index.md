@@ -26,7 +26,7 @@ Our research group identifies early warning signs for health trajectories that i
 
 {%
   include feature.html
-  image="images/logo.png"
+  image="images/photo.png"
   link="research"
   title="Our Research"
   text=text
