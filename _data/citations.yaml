@@ -1,174 +1,1209 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:10.1093/nar/gkad1082
-  title: "The Monarch Initiative in 2024: an analytic platform integrating phenotypes,\
-    \ genes\_and diseases across species"
+- id: doi:10.1155/2019/8036035
+  title: Reprogrammed Cells Display Distinct Proteomic Signatures Associated with
+    Colony Morphology Variability
   authors:
-  - Tim E Putman
-  - Kevin Schaper
-  - Nicolas Matentzoglu
-  - "Vincent\_P Rubinetti"
-  - "Faisal\_S Alquaddoomi"
-  - Corey Cox
-  - J Harry Caufield
-  - Glass Elsarboukh
-  - Sarah Gehrke
-  - Harshad Hegde
-  - "Justin\_T Reese"
-  - Ian Braun
-  - "Richard\_M Bruskiewich"
-  - Luca Cappelletti
-  - Seth Carbon
-  - "Anita\_R Caron"
-  - "Lauren\_E Chan"
-  - "Christopher\_G Chute"
-  - "Katherina\_G Cortes"
-  - "Vin\xEDcius De\_Souza"
-  - Tommaso Fontana
-  - "Nomi\_L Harris"
-  - "Emily\_L Hartley"
-  - Eric Hurwitz
-  - "Julius\_O B Jacobsen"
-  - Madan Krishnamurthy
-  - "Bryan\_J Laraway"
-  - "James\_A McLaughlin"
-  - "Julie\_A McMurry"
-  - "Sierra\_A T Moxon"
-  - "Kathleen\_R Mullen"
-  - "Shawn\_T O\u2019Neil"
-  - "Kent\_A Shefchek"
-  - Ray Stefancsik
-  - Sabrina Toro
-  - "Nicole\_A Vasilevsky"
-  - "Ramona\_L Walls"
-  - "Patricia\_L Whetzel"
-  - David Osumi-Sutherland
-  - Damian Smedley
-  - "Peter\_N Robinson"
-  - "Christopher\_J Mungall"
-  - "Melissa\_A Haendel"
-  - "Monica\_C Munoz-Torres"
-  publisher: Nucleic Acids Research
-  date: '2023-11-24'
-  link: https://doi.org/gs6kmr
-  orcid: 0000-0002-4655-3773
+  - "Yngvild Bj\xF8rlykke"
+  - "Anne M. S\xF8viknes"
+  - Laurence Hoareau
+  - Heidrun Vethe
+  - Andreas F. Mathisen
+  - Simona Chera
+  - Marc Vaudel
+  - Luiza M. Ghila
+  - "Helge R\xE6der"
+  publisher: Stem Cells International
+  date: '2019-11-18'
+  link: https://doi.org/gpwzkp
+  orcid: 0000-0003-1179-9578
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.10.11.560955
-  title: Integration of 168,000 samples reveals global patterns of the human gut microbiome
+- id: doi:10.1038/s41467-019-12308-0
+  title: Genome-wide association study reveals dynamic role of genetic variation in
+    infant and early childhood growth
   authors:
-  - Richard J. Abdill
-  - Samantha P. Graham
-  - Vincent Rubinetti
-  - Frank W. Albert
-  - Casey S. Greene
-  - Sean Davis
-  - Ran Blekhman
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-10-11'
-  link: https://doi.org/gsvf5z
-  orcid: 0000-0002-4655-3773
+  - "\xD8yvind Helgeland"
+  - Marc Vaudel
+  - Petur B. Juliusson
+  - Oddgeir Lingaas Holmen
+  - Julius Juodakis
+  - Jonas Bacelis
+  - Bo Jacobsson
+  - Haakon Lindekleiv
+  - Kristian Hveem
+  - Rolv Terje Lie
+  - Gun Peggy Knudsen
+  - Camilla Stoltenberg
+  - Per Magnus
+  - "J\xF8rn V. Sagen"
+  - Anders Molven
+  - Stefan Johansson
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  publisher: Nature Communications
+  date: '2019-10-01'
+  link: https://doi.org/gjcbc9
+  orcid: 0000-0003-1179-9578
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1093/nar/gkad289
-  title: 'MyGeneset.info: an interactive and programmatic platform for community-curated
-    and user-created collections of genes'
+- id: doi:10.1007/s10519-019-09969-4
+  title: Introducing M-GCTA a Software Package to Estimate Maternal (or Paternal)
+    Genetic Effects on Offspring Phenotypes
   authors:
-  - Ricardo Avila
-  - Vincent Rubinetti
-  - Xinghua Zhou
-  - Dongbo Hu
-  - Zhongchao Qian
-  - Marco Alvarado Cano
-  - Everaldo Rodolpho
-  - Ginger Tsueng
-  - Casey Greene
-  - Chunlei Wu
-  publisher: Nucleic Acids Research
-  date: '2023-04-18'
-  link: https://doi.org/gr5hb5
-  orcid: 0000-0002-4655-3773
+  - Zhen Qiao
+  - Jie Zheng
+  - "\xD8yvind Helgeland"
+  - Marc Vaudel
+  - Stefan Johansson
+  - "P\xE5l R. Nj\xF8lstad"
+  - George Davey Smith
+  - Nicole M. Warrington
+  - David M. Evans
+  publisher: Behavior Genetics
+  date: '2019-09-06'
+  link: https://doi.org/g9k5t7
+  orcid: 0000-0003-1179-9578
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2023.01.05.522941
-  title: Hetnet connectivity search provides rapid insights into how two biomedical
-    entities are related
+- id: doi:10.1093/gigascience/giz088
+  title: 'PathwayMatcher: proteoform-centric network construction enables fine-granularity
+    multiomics pathway mapping'
   authors:
-  - Daniel S. Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J. Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N. Nicholson
-  - Yun Hao
-  - Blair D. Sullivan
-  - Michael W. Nagle
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2023-01-07'
-  link: https://doi.org/grmcb9
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
-- id: doi:10.1093/gigascience/giad047
-  title: Hetnet connectivity search provides rapid insights into how biomedical entities
-    are related
-  authors:
-  - Daniel S Himmelstein
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Kyle Kloster
-  - Benjamin J Heil
-  - Faisal Alquaddoomi
-  - Dongbo Hu
-  - David N Nicholson
-  - Yun Hao
-  - Blair D Sullivan
-  - Michael W Nagle
-  - Casey S Greene
+  - "Luis Francisco Hern\xE1ndez S\xE1nchez"
+  - Bram Burger
+  - Carlos Horro
+  - Antonio Fabregat
+  - Stefan Johansson
+  - "P\xE5l Rasmus Nj\xF8lstad"
+  - Harald Barsnes
+  - Henning Hermjakob
+  - Marc Vaudel
   publisher: GigaScience
-  date: '2022-12-28'
-  link: https://doi.org/gsd85n
-  orcid: 0000-0002-4655-3773
+  date: '2019-07-30'
+  link: https://doi.org/gsxn3q
+  orcid: 0000-0003-1179-9578
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1101/2022.02.18.461833
-  title: 'MolEvolvR: A web-app for characterizing proteins using molecular evolution
-    and phylogeny'
+- id: doi:10.1093/hmg/ddz161
+  title: A trans-ancestral meta-analysis of genome-wide association studies reveals
+    loci associated with childhood obesity
   authors:
-  - Jacob D Krol
-  - Joseph T Burke
-  - Samuel Z Chen
-  - Lo M Sosinski
-  - Faisal S Alquaddoomi
-  - Evan P Brenner
-  - Ethan P Wolfe
-  - Vincent P Rubinetti
-  - Shaddai Amolitos
-  - Kellen M Reason
-  - John B Johnston
-  - Janani Ravi
-  publisher: Cold Spring Harbor Laboratory
-  date: '2022-02-22'
-  link: https://doi.org/gstx7j
-  orcid: 0000-0002-4655-3773
+  - Jonathan P Bradfield
+  - Suzanne Vogelezang
+  - Janine F Felix
+  - Alessandra Chesi
+  - "\xD8yvind Helgeland"
+  - Momoko Horikoshi
+  - Ville Karhunen
+  - Estelle Lowry
+  - Diana L Cousminer
+  - Tarunveer S Ahluwalia
+  - Elisabeth Thiering
+  - Eileen Tai-Hui Boh
+  - Mohammad H Zafarmand
+  - Natalia Vilor-Tejedor
+  - Carol A Wang
+  - Raimo Joro
+  - Zhanghua Chen
+  - William J Gauderman
+  - "Niina Pitk\xE4nen"
+  - Esteban J Parra
+  - Lindsay Fernandez-Rhodes
+  - Akram Alyass
+  - Claire Monnereau
+  - John A Curtin
+  - Christian T Have
+  - Shana E McCormack
+  - Mette Hollensted
+  - "Christine Frithioff-B\xF8js\xF8e"
+  - Adan Valladares-Salgado
+  - Jesus Peralta-Romero
+  - Yik-Ying Teo
+  - Marie Standl
+  - Jaakko T Leinonen
+  - Jens-Christian Holm
+  - Triinu Peters
+  - Jesus Vioque
+  - Martine Vrijheid
+  - Angela Simpson
+  - Adnan Custovic
+  - Marc Vaudel
+  - "Micka\xEBl Canouil"
+  - Virpi Lindi
+  - Mustafa Atalay
+  - "Mika K\xE4h\xF6nen"
+  - Olli T Raitakari
+  - Barbera D C van Schaik
+  - Robert I Berkowitz
+  - Shelley A Cole
+  - V Saroja Voruganti
+  - Yujie Wang
+  - Heather M Highland
+  - Anthony G Comuzzie
+  - Nancy F Butte
+  - Anne E Justice
+  - Sheila Gahagan
+  - Estela Blanco
+  - "Terho Lehtim\xE4ki"
+  - Timo A Lakka
+  - Johannes Hebebrand
+  - "Am\xE9lie Bonnefond"
+  - Niels Grarup
+  - Philippe Froguel
+  - "Leo-Pekka Lyytik\xE4inen"
+  - Miguel Cruz
+  - Sayuko Kobes
+  - Robert L Hanson
+  - Babette S Zemel
+  - Anke Hinney
+  - Koon K Teo
+  - David Meyre
+  - Kari E North
+  - Frank D Gilliland
+  - Hans Bisgaard
+  - Mariona Bustamante
+  - Klaus Bonnelykke
+  - Craig E Pennell
+  - Fernando Rivadeneira
+  - "Andr\xE9 G Uitterlinden"
+  - Leslie J Baier
+  - Tanja G M Vrijkotte
+  - Joachim Heinrich
+  - "Thorkild I A S\xF8rensen"
+  - Seang-Mei Saw
+  - Oluf Pedersen
+  - Torben Hansen
+  - Johan Eriksson
+  - "Elisabeth Wid\xE9n"
+  - Mark I McCarthy
+  - "P\xE5l R Nj\xF8lstad"
+  - Christine Power
+  - "Elina Hypp\xF6nen"
+  - Sylvain Sebert
+  - Christopher D Brown
+  - "Marjo-Riitta J\xE4rvelin"
+  - Nicholas J Timpson
+  - Stefan Johansson
+  - Hakon Hakonarson
+  - Vincent W V Jaddoe
+  publisher: Human Molecular Genetics
+  date: '2019-06-07'
+  link: https://doi.org/ggc6g7
+  orcid: 0000-0003-1179-9578
   plugin: orcid.py
   file: orcid.yaml
-- id: doi:10.1186/s13059-020-02021-3
-  title: Compressing gene expression data using multiple latent space dimensionalities
-    learns complementary biological representations
+- id: doi:10.1093/gigascience/giz054
+  title: Software engineering for scientific big data analysis
   authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Genome Biology
-  date: '2020-05-11'
-  link: https://doi.org/gg2mjh
-  orcid: 0000-0002-4655-3773
+  - "Bj\xF6rn A Gr\xFCning"
+  - Samuel Lampa
+  - Marc Vaudel
+  - Daniel Blankenberg
+  publisher: GigaScience
+  date: '2019-05-01'
+  link: https://doi.org/gf4f4m
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41588-019-0403-1
+  title: Maternal and fetal genetic effects on birth weight and their relevance to
+    cardio-metabolic risk factors
+  authors:
+  - Nicole M. Warrington
+  - Robin N. Beaumont
+  - Momoko Horikoshi
+  - Felix R. Day
+  - "\xD8yvind Helgeland"
+  - Charles Laurin
+  - Jonas Bacelis
+  - Shouneng Peng
+  - Ke Hao
+  - Bjarke Feenstra
+  - Andrew R. Wood
+  - Anubha Mahajan
+  - Jessica Tyrrell
+  - Neil R. Robertson
+  - N. William Rayner
+  - Zhen Qiao
+  - Gunn-Helen Moen
+  - Marc Vaudel
+  - Carmen J. Marsit
+  - Jia Chen
+  - Michael Nodzenski
+  - Theresia M. Schnurr
+  - Mohammad H. Zafarmand
+  - Jonathan P. Bradfield
+  - Niels Grarup
+  - Marjolein N. Kooijman
+  - Ruifang Li-Gao
+  - Frank Geller
+  - Tarunveer S. Ahluwalia
+  - Lavinia Paternoster
+  - Rico Rueedi
+  - Ville Huikari
+  - Jouke-Jan Hottenga
+  - "Leo-Pekka Lyytik\xE4inen"
+  - Alana Cavadino
+  - Sarah Metrustry
+  - Diana L. Cousminer
+  - Ying Wu
+  - Elisabeth Thiering
+  - Carol A. Wang
+  - Christian T. Have
+  - Natalia Vilor-Tejedor
+  - Peter K. Joshi
+  - Jodie N. Painter
+  - Ioanna Ntalla
+  - Ronny Myhre
+  - "Niina Pitk\xE4nen"
+  - Elisabeth M. van Leeuwen
+  - Raimo Joro
+  - Vasiliki Lagou
+  - Rebecca C. Richmond
+  - Ana Espinosa
+  - Sheila J. Barton
+  - Hazel M. Inskip
+  - John W. Holloway
+  - Loreto Santa-Marina
+  - Xavier Estivill
+  - Wei Ang
+  - Julie A. Marsh
+  - Christoph Reichetzeder
+  - Letizia Marullo
+  - Berthold Hocher
+  - Kathryn L. Lunetta
+  - Joanne M. Murabito
+  - Caroline L. Relton
+  - Manolis Kogevinas
+  - Leda Chatzi
+  - Catherine Allard
+  - Luigi Bouchard
+  - Marie-France Hivert
+  - Ge Zhang
+  - Louis J. Muglia
+  - Jani Heikkinen
+  - Camilla S. Morgen
+  - Antoine H. C. van Kampen
+  - Barbera D. C. van Schaik
+  - Frank D. Mentch
+  - Claudia Langenberg
+  - "Jian\u2019an Luan"
+  - Robert A. Scott
+  - Jing Hua Zhao
+  - Gibran Hemani
+  - Susan M. Ring
+  - Amanda J. Bennett
+  - Kyle J. Gaulton
+  - Juan Fernandez-Tajes
+  - Natalie R. van Zuydam
+  - Carolina Medina-Gomez
+  - Hugoline G. de Haan
+  - Frits R. Rosendaal
+  - "Zolt\xE1n Kutalik"
+  - Pedro Marques-Vidal
+  - Shikta Das
+  - Gonneke Willemsen
+  - Hamdi Mbarek
+  - "Martina M\xFCller-Nurasyid"
+  - Marie Standl
+  - Emil V. R. Appel
+  - Cilius E. Fonvig
+  - Caecilie Trier
+  - Catharina E. M. van Beijsterveldt
+  - Mario Murcia
+  - Mariona Bustamante
+  - "S\xEDlvia Bonas-Guarch"
+  - David M. Hougaard
+  - Josep M. Mercader
+  - Allan Linneberg
+  - Katharina E. Schraut
+  - Penelope A. Lind
+  - Sarah E. Medland
+  - Beverley M. Shields
+  - Bridget A. Knight
+  - Jin-Fang Chai
+  - Kalliope Panoutsopoulou
+  - Meike Bartels
+  - "Friman S\xE1nchez"
+  - Jakob Stokholm
+  - David Torrents
+  - Rebecca K. Vinding
+  - Sara M. Willems
+  - Mustafa Atalay
+  - Bo L. Chawes
+  - Peter Kovacs
+  - Inga Prokopenko
+  - Marcus A. Tuke
+  - Hanieh Yaghootkar
+  - Katherine S. Ruth
+  - Samuel E. Jones
+  - Po-Ru Loh
+  - Anna Murray
+  - Michael N. Weedon
+  - "Anke T\xF6njes"
+  - Michael Stumvoll
+  - Kim F. Michaelsen
+  - Aino-Maija Eloranta
+  - Timo A. Lakka
+  - Cornelia M. van Duijn
+  - Wieland Kiess
+  - "Antje K\xF6rner"
+  - Harri Niinikoski
+  - Katja Pahkala
+  - Olli T. Raitakari
+  - Bo Jacobsson
+  - Eleftheria Zeggini
+  - George V. Dedoussis
+  - Yik-Ying Teo
+  - Seang-Mei Saw
+  - Grant W. Montgomery
+  - Harry Campbell
+  - James F. Wilson
+  - Tanja G. M. Vrijkotte
+  - Martine Vrijheid
+  - Eco J. C. N. de Geus
+  - M. Geoffrey Hayes
+  - Haja N. Kadarmideen
+  - Jens-Christian Holm
+  - Lawrence J. Beilin
+  - Craig E. Pennell
+  - Joachim Heinrich
+  - Linda S. Adair
+  - Judith B. Borja
+  - Karen L. Mohlke
+  - Johan G. Eriksson
+  - "Elisabeth E. Wid\xE9n"
+  - Andrew T. Hattersley
+  - Tim D. Spector
+  - "Mika K\xE4h\xF6nen"
+  - Jorma S. Viikari
+  - "Terho Lehtim\xE4ki"
+  - Dorret I. Boomsma
+  - Sylvain Sebert
+  - Peter Vollenweider
+  - "Thorkild I. A. S\xF8rensen"
+  - Hans Bisgaard
+  - "Klaus B\xF8nnelykke"
+  - Jeffrey C. Murray
+  - Mads Melbye
+  - Ellen A. Nohr
+  - Dennis O. Mook-Kanamori
+  - Fernando Rivadeneira
+  - Albert Hofman
+  - Janine F. Felix
+  - Vincent W. V. Jaddoe
+  - Torben Hansen
+  - Charlotta Pisinger
+  - Allan A. Vaag
+  - Oluf Pedersen
+  - "Andr\xE9 G. Uitterlinden"
+  - "Marjo-Riitta J\xE4rvelin"
+  - Christine Power
+  - "Elina Hypp\xF6nen"
+  - Denise M. Scholtens
+  - William L. Lowe
+  - George Davey Smith
+  - Nicholas J. Timpson
+  - Andrew P. Morris
+  - Nicholas J. Wareham
+  - Hakon Hakonarson
+  - Struan F. A. Grant
+  - Timothy M. Frayling
+  - Debbie A. Lawlor
+  - "P\xE5l R. Nj\xF8lstad"
+  - Stefan Johansson
+  - Ken K. Ong
+  - Mark I. McCarthy
+  - John R. B. Perry
+  - David M. Evans
+  - Rachel M. Freathy
+  publisher: Nature Genetics
+  date: '2019-05-01'
+  link: https://doi.org/gg95wb
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/bty770
+  title: 'PDV: an integrative proteomics data viewer'
+  authors:
+  - Kai Li
+  - Marc Vaudel
+  - Bing Zhang
+  - Yan Ren
+  - Bo Wen
+  publisher: Bioinformatics
+  date: '2018-08-30'
+  link: https://doi.org/gd4z49
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/s12402-018-0281-x
+  title: "Effect of disease-associated SLC9A9 mutations on protein\u2013protein interaction\
+    \ networks: implications for molecular mechanisms for ADHD and autism"
+  authors:
+  - Yanli Zhang-James
+  - Marc Vaudel
+  - Olav Mjaavatten
+  - Frode S. Berven
+  - Jan Haavik
+  - Stephen V. Faraone
+  publisher: ADHD Attention Deficit and Hyperactivity Disorders
+  date: '2019-03-01'
+  link: https://doi.org/g9k5t8
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jproteome.8b00464
+  title: Analyzing the Structure of Pathways and Its Influence on the Interpretation
+    of Biomedical Proteomics Data Sets
+  authors:
+  - Bram Burger
+  - "Luis Francisco Hern\xE1ndez S\xE1nchez"
+  - Ragnhild Reehorst Lereim
+  - Harald Barsnes
+  - Marc Vaudel
+  publisher: Journal of Proteome Research
+  date: '2018-09-25'
+  link: https://doi.org/gfmv85
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jproteome.8b00175
+  title: 'SearchGUI: A Highly Adaptable Common Interface for Proteomics Search and
+    de Novo Engines'
+  authors:
+  - Harald Barsnes
+  - Marc Vaudel
+  publisher: Journal of Proteome Research
+  date: '2018-05-18'
+  link: https://doi.org/g9k5t9
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1101/mcs.a002303
+  title: A de novo Ser111Thr variant in aquaporin-4 in a patient with intellectual
+    disability, transient signs of brain ischemia, transient cardiac hypertrophy,
+    and progressive gait disturbance
+  authors:
+  - Siren Berland
+  - Trine L. Toft-Bertelsen
+  - Ingvild Aukrust
+  - Jan Byska
+  - Marc Vaudel
+  - Laurence A. Bindoff
+  - Nanna MacAulay
+  - Gunnar Houge
+  publisher: Molecular Case Studies
+  date: '2018-02-01'
+  link: https://doi.org/g9k5vb
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1158/0008-5472.can-17-0331
+  title: An Accessible Proteogenomics Informatics Resource for Cancer Researchers
+  authors:
+  - Matthew C. Chambers
+  - Pratik D. Jagtap
+  - James E. Johnson
+  - Thomas McGowan
+  - Praveen Kumar
+  - Getiria Onsongo
+  - Candace R. Guerrero
+  - Harald Barsnes
+  - Marc Vaudel
+  - Lennart Martens
+  - "Bj\xF6rn Gr\xFCning"
+  - Ira R. Cooke
+  - Mohammad Heydarian
+  - Karen L. Reddy
+  - Timothy J. Griffin
+  publisher: Cancer Research
+  date: '2017-10-31'
+  link: https://doi.org/gcj3pg
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btx192
+  title: 'BioContainers: an open-source and community-driven framework for software
+    standardization'
+  authors:
+  - Felipe da Veiga Leprevost
+  - "Bj\xF6rn A Gr\xFCning"
+  - Saulo Alves Aflitos
+  - "Hannes L R\xF6st"
+  - Julian Uszkoreit
+  - Harald Barsnes
+  - Marc Vaudel
+  - Pablo Moreno
+  - Laurent Gatto
+  - Jonas Weber
+  - Mingze Bai
+  - Rafael C Jimenez
+  - Timo Sachsenberg
+  - Julianus Pfeuffer
+  - Roberto Vera Alvarez
+  - Johannes Griss
+  - Alexey I Nesvizhskii
+  - Yasset Perez-Riverol
+  publisher: Bioinformatics
+  date: '2017-03-30'
+  link: https://doi.org/gh9qqj
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1093/bioinformatics/btx122
+  title: 'PeptideMapper: efficient and versatile amino acid sequence and tag mapping'
+  authors:
+  - Dominik Kopczynski
+  - Harald Barsnes
+  - "P\xE5l R Nj\xF8lstad"
+  - Albert Sickmann
+  - Marc Vaudel
+  - Robert Ahrends
+  publisher: Bioinformatics
+  date: '2017-03-02'
+  link: https://doi.org/f9wkf6
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/mcp.m117.068429
+  title: The mzIdentML Data Standard Version 1.2, Supporting Advances in Proteome
+    Informatics
+  authors:
+  - "Juan Antonio Vizca\xEDno"
+  - Gerhard Mayer
+  - Simon Perkins
+  - Harald Barsnes
+  - Marc Vaudel
+  - Yasset Perez-Riverol
+  - Tobias Ternent
+  - Julian Uszkoreit
+  - Martin Eisenacher
+  - Lutz Fischer
+  - Juri Rappsilber
+  - Eugen Netz
+  - Mathias Walzer
+  - Oliver Kohlbacher
+  - Alexander Leitner
+  - Robert J. Chalkley
+  - Fawaz Ghali
+  - "Salvador Mart\xEDnez-Bartolom\xE9"
+  - Eric W. Deutsch
+  - Andrew R. Jones
+  publisher: Molecular &amp; Cellular Proteomics
+  date: '2017-07-01'
+  link: https://doi.org/gbmxbg
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.jproteome.6b00659
+  title: 'In-Depth Cerebrospinal Fluid Quantitative Proteome and Deglycoproteome Analysis:
+    Presenting a Comprehensive Picture of Pathways and Processes Affected by Multiple
+    Sclerosis'
+  authors:
+  - Ann Cathrine Kroksveen
+  - Astrid Guldbrandsen
+  - Marc Vaudel
+  - Ragnhild Reehorst Lereim
+  - Harald Barsnes
+  - Kjell-Morten Myhr
+  - "\xD8ivind Torkildsen"
+  - Frode S. Berven
+  publisher: Journal of Proteome Research
+  date: '2016-10-26'
+  link: https://doi.org/f9kw99
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1186/s12575-016-0043-0
+  title: Reliable FASP-based procedures for optimal quantitative proteomic and phosphoproteomic
+    analysis on samples from acute myeloid leukemia patients
+  authors:
+  - Maria Hernandez-Valladares
+  - "Elise Aaseb\xF8"
+  - Olav Mjaavatten
+  - Marc Vaudel
+  - "\xD8ystein Bruserud"
+  - Frode Berven
+  - Frode Selheim
+  publisher: Biological Procedures Online
+  date: '2016-06-21'
+  link: https://doi.org/gd4wv8
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jprot.2016.03.049
+  title: Freezing effects on the acute myeloid leukemia cell proteome and phosphoproteome
+    revealed using optimal quantitative workflows
+  authors:
+  - "Elise Aaseb\xF8"
+  - Olav Mjaavatten
+  - Marc Vaudel
+  - Yehia Farag
+  - Frode Selheim
+  - Frode Berven
+  - "\xD8ystein Bruserud"
+  - Maria Hernandez-Valladares
+  publisher: Journal of Proteomics
+  date: '2016-08-01'
+  link: https://doi.org/f84nqb
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pmic.201500284
+  title: "Label\u2010free analysis of human cerebrospinal fluid addressing various\
+    \ normalization strategies and revealing protein groups affected by multiple sclerosis"
+  authors:
+  - Jill A. Opsahl
+  - Marc Vaudel
+  - Astrid Guldbrandsen
+  - "Elise Aaseb\xF8"
+  - Vincent Van Pesch
+  - Diego Franciotta
+  - "Kjell\u2010Morten Myhr"
+  - Harald Barsnes
+  - Magnus Berle
+  - "\xD8ivind Torkildsen"
+  - Ann C. Kroksveen
+  - Frode S. Berven
+  publisher: PROTEOMICS
+  date: '2016-04-01'
+  link: https://doi.org/f3mgxf
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26510693
+  title: Pladipus Enables Universal Distributed Computing in Proteomics Bioinformatics.
+  authors:
+  - Kenneth Verheggen
+  - Davy Maddelein
+  - Niels Hulstaert
+  - Lennart Martens
+  - Harald Barsnes
+  - Marc Vaudel
+  publisher: Journal of proteome research
+  date: '2015-11-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26510693
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26449181
+  title: Exploring the potential of public proteomics data.
+  authors:
+  - Marc Vaudel
+  - Kenneth Verheggen
+  - Attila Csordas
+  - Helge Raeder
+  - Frode S Berven
+  - Lennart Martens
+  - "Juan A Vizca\xEDno"
+  - Harald Barsnes
+  publisher: Proteomics
+  date: '2015-12-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26449181
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26700056
+  title: A Simple Workflow for Large Scale Shotgun Glycoproteomics.
+  authors:
+  - Astrid Guldbrandsen
+  - Harald Barsnes
+  - Ann Cathrine Kroksveen
+  - Frode S Berven
+  - Marc Vaudel
+  publisher: Methods in molecular biology (Clifton, N.J.)
+  date: '2016-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26700056
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26700055
+  title: Interpretation of Quantitative Shotgun Proteomic Data.
+  authors:
+  - "Elise Aaseb\xF8"
+  - Frode S Berven
+  - Frode Selheim
+  - Harald Barsnes
+  - Marc Vaudel
+  publisher: Methods in molecular biology (Clifton, N.J.)
+  date: '2016-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26700055
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26278526
+  title: Practical Considerations for Omics Experiments in Biomedical Sciences.
+  authors:
+  - Marc Vaudel
+  - Harald Barsnes
+  - Rolf Bjerkvig
+  - Andreas Bikfalvi
+  - Frode Selheim
+  - Frode S Berven
+  - Thomas Daubon
+  publisher: Current pharmaceutical biotechnology
+  date: '2016-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26278526
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:26700057
+  title: Systemic Analysis of Regulated Functional Networks.
+  authors:
+  - "Luis Francisco Hern\xE1ndez S\xE1nchez"
+  - "Elise Aaseb\xF8"
+  - Frode Selheim
+  - Frode S Berven
+  - "Helge R\xE6der"
+  - Harald Barsnes
+  - Marc Vaudel
+  publisher: Methods in molecular biology (Clifton, N.J.)
+  date: '2016-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/26700057
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1007/978-3-319-42316-6_5
+  title: Using Proteomics Bioinformatics Tools and Resources in Proteogenomic Studies
+  authors:
+  - Marc Vaudel
+  - Harald Barsnes
+  - "Helge R\xE6der"
+  - Frode S. Berven
+  publisher: Advances in Experimental Medicine and Biology
+  date: '2016-01-01'
+  link: https://doi.org/g9k5vc
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pmic.201400356
+  title: 'JSparklines: Making tabular proteomics data come alive'
+  authors:
+  - Harald Barsnes
+  - Marc Vaudel
+  - Lennart Martens
+  publisher: PROTEOMICS
+  date: '2015-01-19'
+  link: https://doi.org/f2x9zk
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/pr500750z
+  title: Carboxyl-Ester Lipase Maturity-Onset Diabetes of the Young Disease Protein
+    Biomarkers in Secretin-Stimulated Duodenal Juice
+  authors:
+  - Yngvild Bjorlykke
+  - Heidrun Vethe
+  - Marc Vaudel
+  - Harald Barsnes
+  - Frode S. Berven
+  - Erling Tjora
+  - Helge Raeder
+  publisher: Journal of Proteome Research
+  date: '2014-11-04'
+  link: https://doi.org/f8k8qw
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25304470
+  title: Distinct protein signature of hypertension-induced damage in the renal proteome
+    of the two-kidney, one-clip rat model.
+  authors:
+  - Heidrun Vethe
+  - Kenneth Finne
+  - Trude Skogstrand
+  - Marc Vaudel
+  - "Bj\xF8rn E Vikse"
+  - "Michael Hultstr\xF6m"
+  - Sandrine Placier
+  - Andreas Scherer
+  - Olav Tenstad
+  - Hans-Peter Marti
+  publisher: Journal of hypertension
+  date: '2015-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25304470
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/nbt.3109
+  title: PeptideShaker enables reanalysis of MS-derived proteomics data sets
+  authors:
+  - Marc Vaudel
+  - Julia M Burkhart
+  - "Ren\xE9 P Zahedi"
+  - Eystein Oveland
+  - Frode S Berven
+  - Albert Sickmann
+  - Lennart Martens
+  - Harald Barsnes
+  publisher: Nature Biotechnology
+  date: '2015-01-01'
+  link: https://doi.org/ggkds8
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1371/journal.pone.0109279
+  title: Exploring the Human Plasma Proteome for Humoral Mediators of Remote Ischemic
+    Preconditioning - A Word of Caution
+  authors:
+  - Erik Helgeland
+  - "Lars Ertesv\xE5g Breivik"
+  - Marc Vaudel
+  - "\xD8yvind Sverre Svendsen"
+  - Hilde Garberg
+  - Jan Erik Nordrehaug
+  - Frode Steingrimsen Berven
+  - Anne Kristine Jonassen
+  publisher: PLoS ONE
+  date: '2014-10-15'
+  link: https://doi.org/g9k5vd
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pmic.201300448
+  title: "Performance of super\u2010SILAC based quantitative proteomics for comparison\
+    \ of different acute myeloid leukemia (AML) cell lines"
+  authors:
+  - "Elise Aaseb\xF8"
+  - Marc Vaudel
+  - Olav Mjaavatten
+  - Gro Gausdal
+  - Arthur Van der Burgh
+  - "Bj\xF8rn Tore Gjertsen"
+  - "Stein Ove D\xF8skeland"
+  - "\xD8ystein Bruserud"
+  - Frode S. Berven
+  - Frode Selheim
+  publisher: PROTEOMICS
+  date: '2014-08-08'
+  link: https://doi.org/f2tg9s
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pmic.201300488
+  title: Shedding light on black boxes in protein identification
+  authors:
+  - Marc Vaudel
+  - A. Saskia Venne
+  - Frode S. Berven
+  - "Ren\xE9 P. Zahedi"
+  - Lennart Martens
+  - Harald Barsnes
+  publisher: PROTEOMICS
+  date: '2014-03-20'
+  link: https://doi.org/f2rdw7
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/pr4008078
+  title: 'DeNovoGUI: An Open Source Graphical User Interface for <i>de Novo</i> Sequencing
+    of Tandem Mass Spectra'
+  authors:
+  - Thilo Muth
+  - "Lisa Weilnb\xF6ck"
+  - Erdmann Rapp
+  - Christian G. Huber
+  - Lennart Martens
+  - Marc Vaudel
+  - Harald Barsnes
+  publisher: Journal of Proteome Research
+  date: '2014-01-07'
+  link: https://doi.org/f3sp4h
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2013-07-512384
+  title: Time-resolved characterization of cAMP/PKA-dependent signaling reveals that
+    platelet inhibition is a concerted process involving multiple signaling pathways
+  authors:
+  - Florian Beck
+  - "J\xF6rg Geiger"
+  - Stepan Gambaryan
+  - Johannes Veit
+  - Marc Vaudel
+  - Peter Nollau
+  - Oliver Kohlbacher
+  - Lennart Martens
+  - Ulrich Walter
+  - Albert Sickmann
+  - "Ren\xE9 P. Zahedi"
+  publisher: Blood
+  date: '2014-01-30'
+  link: https://doi.org/f53c8f
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:23845992
+  title: Introduction to opportunities and pitfalls in functional mass spectrometry
+    based proteomics.
+  authors:
+  - Marc Vaudel
+  - Albert Sickmann
+  - Lennart Martens
+  publisher: Biochimica et biophysica acta
+  date: '2013-07-09'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23845992
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:24791993
+  title: 'Bioinformatics for proteomics: opportunities at the interface between the
+    scientists, their experiments, and the community.'
+  authors:
+  - Marc Vaudel
+  - Harald Barsnes
+  - Lennart Martens
+  - Frode S Berven
+  publisher: Methods in molecular biology (Clifton, N.J.)
+  date: '2014-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/24791993
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:25333471
+  title: Exploring the human plasma proteome for humoral mediators of remote ischemic
+    preconditioning--a word of caution.
+  authors:
+  - Erik Helgeland
+  - "Lars Ertesv\xE5g Breivik"
+  - Marc Vaudel
+  - "\xD8yvind Sverre Svendsen"
+  - Hilde Garberg
+  - Jan Erik Nordrehaug
+  - Frode Steingrimsen Berven
+  - Anne Kristine Jonassen
+  publisher: PloS one
+  date: '2014-10-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/25333471
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.bbapap.2013.06.019
+  title: Introduction to opportunities and pitfalls in functional mass spectrometry
+    based proteomics
+  authors:
+  - Marc Vaudel
+  - Albert Sickmann
+  - Lennart Martens
+  publisher: Biochimica et Biophysica Acta (BBA) - Proteins and Proteomics
+  date: '2014-01-01'
+  link: https://doi.org/g9k5vf
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:23307401
+  title: 'D-score: a search engine independent MD-score.'
+  authors:
+  - Marc Vaudel
+  - Daniela Breiter
+  - Florian Beck
+  - "J\xF6rg Rahnenf\xFChrer"
+  - Lennart Martens
+  - "Ren\xE9 P Zahedi"
+  publisher: Proteomics
+  date: '2013-02-15'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23307401
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1182/blood-2012-04-416594
+  title: The first comprehensive and quantitative analysis of human platelet protein
+    composition allows the comparative analysis of structural and functional pathways
+  authors:
+  - Julia M. Burkhart
+  - Marc Vaudel
+  - Stepan Gambaryan
+  - Sonja Radau
+  - Ulrich Walter
+  - Lennart Martens
+  - "J\xF6rg Geiger"
+  - Albert Sickmann
+  - "Ren\xE9 P. Zahedi"
+  publisher: Blood
+  date: '2012-10-11'
+  link: https://doi.org/f4fn32
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22489649
+  title: A complex standard for protein identification, designed by evolution.
+  authors:
+  - Marc Vaudel
+  - Julia M Burkhart
+  - Daniela Breiter
+  - "Ren\xE9 P Zahedi"
+  - Albert Sickmann
+  - Lennart Martens
+  publisher: Journal of proteome research
+  date: '2012-09-13'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22489649
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22874012
+  title: Integral quantification accuracy estimation for reporter ion-based quantitative
+    proteomics (iQuARI).
+  authors:
+  - Marc Vaudel
+  - Julia M Burkhart
+  - Sonja Radau
+  - "Ren\xE9 P Zahedi"
+  - Lennart Martens
+  - Albert Sickmann
+  publisher: Journal of proteome research
+  date: '2012-08-30'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22874012
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:23194269
+  title: Current methods for global proteome identification.
+  authors:
+  - Marc Vaudel
+  - Albert Sickmann
+  - Lennart Martens
+  publisher: Expert review of proteomics
+  date: '2012-10-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/23194269
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22869793
+  title: The first comprehensive and quantitative analysis of human platelet protein
+    composition allows the comparative analysis of structural and functional pathways.
+  authors:
+  - Julia M Burkhart
+  - Marc Vaudel
+  - Stepan Gambaryan
+  - Sonja Radau
+  - Ulrich Walter
+  - Lennart Martens
+  - "J\xF6rg Geiger"
+  - Albert Sickmann
+  - "Ren\xE9 P Zahedi"
+  publisher: Blood
+  date: '2012-08-06'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22869793
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:22665319
+  title: iTRAQ data interpretation.
+  authors:
+  - Marc Vaudel
+  - Julia Maria Burkhart
+  - "Ren\xE9 Peiman Zahedi"
+  - Lennart Martens
+  - Albert Sickmann
+  publisher: Methods in molecular biology (Clifton, N.J.)
+  date: '2012-01-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/22665319
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/pr2005154
+  title: 'thermo-msf-parser: An Open Source Java Library to Parse and Visualize Thermo
+    Proteome Discoverer <i>msf</i> Files'
+  authors:
+  - Niklaas Colaert
+  - Harald Barsnes
+  - Marc Vaudel
+  - Kenny Helsens
+  - Evy Timmerman
+  - Albert Sickmann
+  - Kris Gevaert
+  - Lennart Martens
+  publisher: Journal of Proteome Research
+  date: '2011-07-11'
+  link: https://doi.org/drfshj
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pmic.201000704
+  title: Peptide identification quality control
+  authors:
+  - Marc Vaudel
+  - Julia M. Burkhart
+  - Albert Sickmann
+  - Lennart Martens
+  - "Ren\xE9 P. Zahedi"
+  publisher: PROTEOMICS
+  date: '2011-04-18'
+  link: https://doi.org/c54f5q
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pmic.201000595
+  title: "SearchGUI: An open\u2010source graphical user interface for simultaneous\
+    \ OMSSA and X!Tandem searches"
+  authors:
+  - Marc Vaudel
+  - Harald Barsnes
+  - Frode S. Berven
+  - Albert Sickmann
+  - Lennart Martens
+  publisher: PROTEOMICS
+  date: '2011-01-31'
+  link: https://doi.org/c54cr5
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pmic.201000711
+  title: "iTRAQ protein quantification: A quality\u2010controlled workflow"
+  authors:
+  - Julia M. Burkhart
+  - Marc Vaudel
+  - "Ren\xE9 P. Zahedi"
+  - Lennart Martens
+  - Albert Sickmann
+  publisher: PROTEOMICS
+  date: '2011-02-16'
+  link: https://doi.org/c54f87
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:21385435
+  title: 'compomics-utilities: an open-source Java library for computational proteomics.'
+  authors:
+  - Harald Barsnes
+  - Marc Vaudel
+  - Niklaas Colaert
+  - Kenny Helsens
+  - Albert Sickmann
+  - Frode S Berven
+  - Lennart Martens
+  publisher: BMC bioinformatics
+  date: '2011-03-08'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/21385435
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/pmic.200900759
+  title: "XTandem Parser: An open\u2010source library to parse and analyse X!Tandem\
+    \ MS/MS search results"
+  authors:
+  - Thilo Muth
+  - Marc Vaudel
+  - Harald Barsnes
+  - Lennart Martens
+  - Albert Sickmann
+  publisher: PROTEOMICS
+  date: '2010-04-01'
+  link: https://doi.org/c53sc3
+  orcid: 0000-0003-1179-9578
+  plugin: orcid.py
+  file: orcid.yaml
+- id: pmid:19953549
+  title: 'Peptide and protein quantification: a map of the minefield.'
+  authors:
+  - Marc Vaudel
+  - Albert Sickmann
+  - Lennart Martens
+  publisher: Proteomics
+  date: '2010-02-01'
+  link: https://www.ncbi.nlm.nih.gov/pubmed/19953549
+  orcid: 0000-0003-1179-9578
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1371/journal.pcbi.1007128
@@ -184,9 +1219,6 @@
   publisher: PLOS Computational Biology
   date: '2020-12-04'
   link: https://doi.org/c7np
-  orcid: 0000-0002-4655-3773
-  plugin: sources.py
-  file: sources.yaml
   type: paper
   description: Lorem ipsum _dolor_ **sit amet**, consectetur adipiscing elit, sed
     do eiusmod tempor incididunt ut labore et dolore magna aliqua.
@@ -203,21 +1235,8 @@
   - open science
   - collaboration
   repo: greenelab/meta-review
-- id: doi:10.1101/573782
-  title: Sequential compression of gene expression across dimensionalities and methods
-    reveals no single best method or dimensionality
-  authors:
-  - Gregory P. Way
-  - Michael Zietz
-  - Vincent Rubinetti
-  - Daniel S. Himmelstein
-  - Casey S. Greene
-  publisher: Cold Spring Harbor Laboratory
-  date: '2019-03-11'
-  link: https://doi.org/gfxjxf
-  orcid: 0000-0002-4655-3773
-  plugin: orcid.py
-  file: orcid.yaml
+  plugin: sources.py
+  file: sources.yaml
 - id: doi:10.1016/j.csbj.2020.05.017
   title: Constructing knowledge graphs and their biomedical applications
   authors:
