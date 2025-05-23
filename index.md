@@ -34,9 +34,12 @@ Our research group identifies early warning signs for health trajectories that i
 
 {% capture text %}
 
-Our research group establishes both new knowledge and methods. Our flagship projects include:
-- _Bioinformatics for Proteogenomics - looking up the answer in the back of the book_, a project funded by a starting grant from the [Norwegian Research Council](forskningsradet.no)
-- _Temporary inconvenience or early warning signs? A new take on maternal symptoms in early pregnancy and their consequences. AuditeMatrem_, a project funded by a consolidator grant from the [European Research Council](erc.europa.eu)
+Our main research areas include:
+- _Pregnancy health_ where we study how health during pregnancy influences later health of mother and child.
+- _Childhood diabetes_ where we study the health trajectories of children with different forms of diabetes.
+- _Childhood growth_ where we study the growth trajectories of children.
+
+In addition, we develop methods, tools and pipeline for _genomics_, _proteomics_ and their combination in the context of large cohort studies.
 
 {%
   include button.html
