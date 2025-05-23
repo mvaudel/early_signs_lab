@@ -1,7 +1,7 @@
 - title: Temporary inconvenience or early warning signs? A new take on maternal symptoms in early pregnancy and their consequences.
   subtitle: 2025 - 2030
   group: featured
-  image: images/audite_matrem.jpg
+  image: images/audite_matrem.png
   description: This research project aims at understanding the biological underpinnings of symptoms in early pregnancy and study their link to later health for mother and child. It is financed by a consolidator grant from the the [European Research Council](erc.europa.eu).
   tags:
     - project
@@ -9,7 +9,6 @@
 - title: Bioinformatics for Proteogenomics - looking up the answer in the back of the book
   subtitle: 2020 - 2025
   group: featured
-  image: images/photo.jpg
   description: This research project aims at developing methods for the joint interpretation of genomic and proteomic data and apply them to study pediatric diabetes. It is financed by a starting grant from the the [Norwegian Research Council](forskningsradet.no).
   tags:
     - project
@@ -17,7 +16,6 @@
 - title: MoBa genetics
   subtitle: 
   group: featured
-  image: images/photo.jpg
   link: https://github.com/fhi-beta/mobaGenetics-qc
   description: We develop the QC and imputation pipeline for the [Norwegian Mother, Father and Child Cohort Study (MoBa)](https://www.fhi.no/en/ch/studies/moba).
   repo: fhi-beta/mobaGenetics-qc
@@ -28,7 +26,6 @@
 - title: ProHap
   subtitle: 
   group: featured
-  image: images/photo.jpg
   link: https://github.com/ProGenNo/ProHap
   description: We develop a pipeline to generate protein sequences capturing sequence diversity from exome sequencing data and genomic reference panels.
   repo: ProGenNo/ProHap
@@ -39,7 +36,6 @@
 
 - title: SearchGUI
   subtitle: 
-  image: images/photo.jpg
   link: https://compomics.github.io/projects/searchgui
   description: SearchGUI is a popular tool that can be used to run multiple proteomic search and _de novo_ engines.
   repo: CompOmics/searchgui
@@ -49,7 +45,6 @@
 
 - title: PeptideShaker
   subtitle: 
-  image: images/photo.jpg
   link: https://compomics.github.io/projects/peptide-shaker
   description: PeptideShaker is a popular tool for the processing of results from search and _de novo_ engines.
   repo: CompOmics/peptide-shaker
