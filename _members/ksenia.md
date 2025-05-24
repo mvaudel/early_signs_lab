@@ -3,6 +3,7 @@ name: Ksenia Kuznetsova
 image: images/members/ksenia.jpg
 description: Postdoc
 role: postdoc
+affiliation: University of Bergen
 links:
   home-page: https://www4.uib.no/finn-ansatte/Ksenia.Kuznetsova
 ---

@@ -15,6 +15,7 @@ We are an international team located in [Bergen, Norway](https://en.wikipedia.or
 {% include list.html data="members" component="portrait" filter="role == 'researcher'" %}
 {% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
 {% include list.html data="members" component="portrait" filter="role == 'phd'" %}
+{% include list.html data="members" component="portrait" filter="role == 'bioinformatician'" %}
 {% include list.html data="members" component="portrait" filter="role == 'student'" %}
 ---
 
@@ -26,7 +27,7 @@ Over the years, we have had the pleasure to welcome many talented members. Here 
 
 {% include section.html background="images/background.jpg" dark=true %}
 
-Some pictures of the group in action.
+Some pictures of the team in action.
 
 {% include section.html %}
 

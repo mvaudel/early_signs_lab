@@ -3,6 +3,7 @@ name: Luis Francisco Hernandez Sanchez
 image: images/members/francisco.jpg
 description: PhD candidate
 role: alumni
+affiliation: University of Bergen
 ---
 
 Francisco did his PhD in our group on biological networks. 
