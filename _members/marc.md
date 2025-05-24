@@ -6,8 +6,8 @@ role: pi
 affiliation: University of Bergen and Norwegian Institute of Public Health
 links:
   email: marc.vaudel@uib.no
-  mastodon: https://sciencemastodon.com/@mvaudel
-  home-page: https://www4.uib.no/en/find-employees/Marc.Vaudel
+  mastodon: sciencemastodon.com/@mvaudel
+  link: https://www4.uib.no/en/find-employees/Marc.Vaudel
   orcid: 0000-0003-1179-9578
   github: mvaudel
   bluesky: mvaudel

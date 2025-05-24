@@ -5,7 +5,7 @@ description: PhD cadidate
 role: phd
 affiliation: University of Bergen
 links:
-  home-page: https://www4.uib.no/en/find-employees/Miguel.Angel.Juarez.Garzon
+  link: https://www4.uib.no/en/find-employees/Miguel.Angel.Juarez.Garzon
 ---
 
 Miguel is conducting a PhD on pediatric diabetes.
