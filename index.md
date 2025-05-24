@@ -3,7 +3,7 @@
 
 # Early signs
 
-Our research team is looking for early signs of pathogenic health trajectories.
+To prevent diseases timing is key, our research team is looking for early signs of pathogenic health trajectories.
 
 {% include section.html %}
 
