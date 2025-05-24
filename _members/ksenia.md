@@ -1,8 +1,8 @@
 ---
 name: Ksenia Kuznetsova 
 image: images/members/ksenia.jpg
-role: Postdoc
-group: postdoc
+description: Postdoc
+role: postdoc
 links:
   home-page: https://www4.uib.no/finn-ansatte/Ksenia.Kuznetsova
 ---

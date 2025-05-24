@@ -1,7 +1,8 @@
 ---
 name: Marc Vaudel
 image: images/members/marc.jpg
-role: principal-investigator
+description: Principal Investigator
+role: pi
 affiliation: University of Bergen and Norwegian Institute of Public Health
 links:
   email: marc.vaudel@uib.no

@@ -13,15 +13,20 @@ We are an international team located in [Bergen, Norway](https://en.wikipedia.or
 
 {% include list.html data="members" component="portrait" filter="role == 'pi'" %}
 {% include list.html data="members" component="portrait" filter="role == 'researcher'" %}
-{% include list.html data="members" component="portrait" filter="role == 'post-doc'" %}
-{% include list.html data="members" component="portrait" filter="role == 'PhD'" %}
+{% include list.html data="members" component="portrait" filter="role == 'postdoc'" %}
+{% include list.html data="members" component="portrait" filter="role == 'phd'" %}
 {% include list.html data="members" component="portrait" filter="role == 'student'" %}
+---
 
-{% include section.html background="images/background.jpg" dark=true %}
+# {% include icon.html icon="fa-solid fa-users" %}Alumni
 
 Over the years, we have had the pleasure to welcome many talented members. Here are some of our alumni.
 
-{% include list.html data="members" component="portrait" filter="role == 'pi'" %}
+{% include list.html data="members" component="portrait" filter="role == 'alumni'" %}
+
+{% include section.html background="images/background.jpg" dark=true %}
+
+Some pictures of the group in action.
 
 {% include section.html %}
 
