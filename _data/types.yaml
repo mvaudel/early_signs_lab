@@ -6,6 +6,10 @@ principal-investigator:
   icon: fa-solid fa-microscope
   description: Principal Investigator
 
+researcher:
+  icon: fa-solid fa-glasses
+  description: Researcher
+
 postdoc:
   icon: fa-solid fa-glasses
   description: Postdoctoral Researcher
@@ -14,17 +18,13 @@ phd:
   icon: fa-solid fa-graduation-cap
   description: PhD Student
 
-undergrad:
-  icon: fa-solid fa-user-graduate
+student:
+  icon: fa-solid fa-code
   description: Undergraduate Student
 
-programmer:
-  icon: fa-solid fa-code
+alumni:
+  icon: fa-solid fa-user-graduate
   description: Programmer
-
-mascot:
-  icon: fa-solid fa-dog
-  description: Mascot
 
 # general
 
@@ -89,12 +89,6 @@ github:
   text: GitHub
   tooltip: GitHub
   link: https://github.com/$VALUE
-
-twitter:
-  icon: fa-brands fa-twitter
-  text: Twitter
-  tooltip: Twitter
-  link: https://twitter.com/$VALUE
 
 bluesky:
   icon: fa-brands fa-bluesky

@@ -81,7 +81,7 @@ Are you interested in our research? [Get in touch!](mailto:marc.vaudel@uib.no)
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/Team.jpg"
   link="team"
   title="Our Team"
   text=text
