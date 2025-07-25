@@ -40,10 +40,10 @@ For an updated list of publications along with links and reprints, please see Ma
 - Jakub's interview on [ProHap](https://www.ncbi.nlm.nih.gov/pubmed/39653819) for [Technology Networks](https://www.technologynetworks.com/proteomics/articles/capturing-genetic-diversity-in-proteomics-394882)
 - News reports on our article [on smoking cessation and placental weight](https://www.ncbi.nlm.nih.gov/pubmed/38575863) at [our Faculty of Medicine](https://www.uib.no/en/med/170377/quitting-smoking-during-pregnancy-may-have-positive-effect-placental-weight) and [psykologisk.no](https://psykologisk.no/2024/05/roykeslutt-under-graviditet-gir-mer-normal-morkake/)
 
-We are always happy to discuss the results of our research with the press. [Get in touch!](mailto:marc.vaudel@uib.no)
+We are always happy to discuss the results of our research with the press. Don't hesitate to [get in touch!](mailto:marc.vaudel@uib.no)
 
 
-{% include section.html dark=true %}
+{% include section.html dark=false %}
 
 ## Funding
 
@@ -84,3 +84,5 @@ We are grateful for the generous support of our funders.
 %}
 
 {% endcapture %}
+
+{% include cols.html col1=col1 col2=col2 %}
