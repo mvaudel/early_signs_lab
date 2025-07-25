@@ -26,8 +26,59 @@ In addition, our group conducts method development in the field of medical data 
 
 {% include section.html %}
 
+
 ## Publications
+
+For an updated list of publications along with links and reprints, please see Marc's repository at the link below:
 
 - [List of publications](https://github.com/mvaudel/Publications)
 
 
+## Press
+
+- Marc's interview on our work on pregnancy for [our Faculty of Medicine](https://www.uib.no/en/med/171651/uib-researcher-wants-find-out-how-fetuss-genes-control-pregnancy)
+- Jakub's interview on [ProHap](https://www.ncbi.nlm.nih.gov/pubmed/39653819) for [Technology Networks](https://www.technologynetworks.com/proteomics/articles/capturing-genetic-diversity-in-proteomics-394882)
+- News reports on our article [on smoking cessation and placental weight](https://www.ncbi.nlm.nih.gov/pubmed/38575863) at [our Faculty of Medicine](https://www.uib.no/en/med/170377/quitting-smoking-during-pregnancy-may-have-positive-effect-placental-weight) and [psykologisk.no](https://psykologisk.no/2024/05/roykeslutt-under-graviditet-gir-mer-normal-morkake/)
+
+We are always happy to discuss the results of our research with the press. [Get in touch!](mailto:marc.vaudel@uib.no)
+
+
+{% include section.html dark=true %}
+
+## Funding
+
+We are grateful for the generous support of our funders.
+
+{% capture col1 %}
+
+{%
+  include feature.html
+  image="images/logos/LOGO_ERC-FLAG_FP.png"
+  link="https://erc.europa.eu/homepage"
+  title="The European Research Council"
+%}
+
+{%
+  include feature.html
+  image="images/logos/forskningsrådet.png"
+  link="https://www.forskningsradet.no"
+  title="The Norwegian Research Council"
+%}
+
+{% endcapture %}
+
+{% capture col2 %}
+
+{%
+  include feature.html
+  image="images/logos/TMS.jpg"
+  link="https://mohnfoundation.no/en"
+  title="The Trond Mohn Foundation"
+%}
+
+{%
+  include feature.html
+  image="images/logos/UiB_Positiv2linjer.png"
+  link="https://www.uib.no"
+  title="The University of Bergen"
+%}

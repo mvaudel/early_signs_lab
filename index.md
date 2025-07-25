@@ -89,6 +89,8 @@ Are you interested in our research? [Get in touch!](mailto:marc.vaudel@uib.no)
 
 {% include section.html dark=true %}
 
+## Funding
+
 We are grateful for the generous support of our funders.
 
 {% capture col1 %}
