@@ -11,12 +11,12 @@ To prevent diseases timing is key, our research team is looking for early signs 
 
 {% capture text %}
 
-Our research group identifies early warning signs for health trajectories that increase the risk of disease. We focus mainly on metabolic health during pregnancy and early childhood using multidisciplinary research on large cohorts and registries.
+Our research group researches early warning signs for health trajectories that increase the risk of disease. We focus mainly on metabolic health during pregnancy and early childhood using multidisciplinary research on large cohorts and registries.
 
 {%
   include button.html
   link="research"
-  text="See our publications"
+  text="More on our research"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
@@ -34,17 +34,12 @@ Our research group identifies early warning signs for health trajectories that i
 
 {% capture text %}
 
-Our main research areas include:
-- _Pregnancy health_ where we study how health during pregnancy influences later health of mother and child.
-- _Childhood diabetes_ where we study the health trajectories of children with different forms of diabetes.
-- _Childhood growth_ where we study the growth trajectories of children.
-
-In addition, we develop methods, tools and pipeline for _genomics_, _proteomics_ and their combination in the context of large cohort studies.
+Our research group is leading international multidisciplinary research projects.
 
 {%
   include button.html
   link="projects"
-  text="Browse our projects"
+  text="More on our projects"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
