@@ -9,8 +9,6 @@ nav:
 
 Our research group conducts multidisciplinary research on large cohorts and registries to generate new methods and knowledge for the understanding of metabolic health during pregnancy and early childhood. 
 
-{% include tags.html tags="publication, resource, website" %}
-
 {% include search-info.html %}
 
 {% include section.html %}
