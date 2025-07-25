@@ -26,7 +26,7 @@ Our research group researches early warning signs for health trajectories that i
 
 {%
   include feature.html
-  image="images/photo.png"
+  image="images/research.jpg"
   link="research"
   title="Our Research"
   text=text
@@ -53,7 +53,7 @@ Our research group is leading international multidisciplinary research projects.
 
 {%
   include feature.html
-  image="images/photo.jpg"
+  image="images/projects.jpg"
   link="projects"
   title="Our Projects"
   flip=true
