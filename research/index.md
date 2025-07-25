@@ -13,11 +13,20 @@ Our research group conducts multidisciplinary research on large cohorts and regi
 - *Childhood diabetes* We study the different presentations of diabetes in children, to better understand the development of the disease and help clinicians tailor treatment strategies to the metabolic trajectories of children.
 - *Childhood growth* We study the growth of children, focusing on the consequences of health during pregnancy. We use genetic epidemiology techniques to understand the mechanisms sustaining the growth of children and whether some children show early signs of metabolic imbalance in their growth trajectory.
 
+{%
+  include button.html
+  link="projects"
+  text="More on our projects"
+  icon="fa-solid fa-arrow-right"
+  flip=true
+  style="bare"
+%}
+
 In addition, our group conducts method development in the field of medical data science. We also contribute to the development of resources for the handling of biodata in the [Norwegian Childhood Diabetes Registry](https://www.oslodiabetes.no/childhood) and the [Norwegian Mother, Father and Child Cohort Study (MoBa)](https://www.fhi.no/en/ch/studies/moba).
 
 {% include section.html %}
 
-## Publicaions
+## Publications
 
 - [List of publications](https://github.com/mvaudel/Publications)
 
