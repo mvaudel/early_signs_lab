@@ -82,3 +82,5 @@ We are grateful for the generous support of our funders.
   link="https://www.uib.no"
   title="The University of Bergen"
 %}
+
+{% endcapture %}

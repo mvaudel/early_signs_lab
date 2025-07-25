@@ -31,7 +31,8 @@ Questions, suggestions? Don't hesitate to contact Marc.
 {% include section.html dark=true %}
 
 {% capture col1 %}
-Visitor address
+### Visitor address
+
     Barne- og ungdomsklinikken, glasblokkene, blokk1 Helse Bergen HF, Haukeland universitetssjukehus
     Room 6141, 6th floor
     5021 Bergen 
@@ -39,7 +40,8 @@ Visitor address
 {% endcapture %}
 
 {% capture col2 %}
-Postal address
+### Postal address
+
     P.O. Box 7804
     NO-5020 Bergen
     Norway

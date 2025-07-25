@@ -22,7 +22,6 @@
 
 - title: MoBa genetics
   subtitle: 
-  group: featured
   link: https://github.com/fhi-beta/mobaGenetics-qc
   description: We develop the QC and imputation pipeline for the [Norwegian Mother, Father and Child Cohort Study (MoBa)](https://www.fhi.no/en/ch/studies/moba).
   repo: fhi-beta/mobaGenetics-qc
@@ -32,7 +31,6 @@
 
 - title: ProHap
   subtitle: 
-  group: featured
   link: https://github.com/ProGenNo/ProHap
   description: We develop a pipeline to generate protein sequences capturing sequence diversity from exome sequencing data and genomic reference panels.
   repo: ProGenNo/ProHap
