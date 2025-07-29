@@ -1,6 +1,6 @@
 ---
 name: Shania Muganga
-image: images/members/photo.jpg
+image: images/members/shania.png
 description: Master's student
 role: student
 affiliation: University of Bergen
