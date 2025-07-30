@@ -1,8 +1,8 @@
 ---
 name: Lorensha Naidoo
-image: images/members/lorensha.png
+image: images/members/lorensha.jpg
 description: Master's student
-role: student
+role: alumni
 affiliation: Stellenbosch University
 ---
 
