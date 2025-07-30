@@ -1,5 +1,6 @@
 ---
 name: Asia Aljiafiri
+image: images/members/asia.jpg
 description: Intern
 role: alumni
 affiliation: University of Bergen
