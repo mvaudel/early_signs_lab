@@ -1,6 +1,7 @@
 ---
 name: Nolan Bruyat
 description: Intern
+image: images/members/nolan.jpg
 role: alumni
 affiliation: University of Bergen
 ---
