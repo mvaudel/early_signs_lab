@@ -6,4 +6,4 @@ role: student
 affiliation: University of Bergen
 ---
 
-Shania is conducting an internship on clustering of pediatric diabetes cases.
+Shania is conducting her Master's project on clustering of pediatric diabetes cases.
