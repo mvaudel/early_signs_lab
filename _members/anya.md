@@ -9,4 +9,4 @@ links:
   link: https://vis.uib.no/team/hanna-balaka/
 ---
 
-Anya is doing her PhD in data visualization of highly dimensional cohort data.
+Anya joined our group for a Master's thesis on GWAS data visualization and is doing her PhD in data visualization of highly dimensional cohort data.

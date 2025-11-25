@@ -6,4 +6,4 @@ role: alumni
 affiliation: Stellenbosch University
 ---
 
-Lorensha joined our group for her Master's thesis on using machine learning to evaluate variant peptide identification.
+Lorensha joined our group for her Master's thesis on using machine learning to evaluate variant peptide identification and defended in 2025.

@@ -8,4 +8,4 @@ links:
   link: https://www4.uib.no/finn-ansatte/Ksenia.Kuznetsova
 ---
 
-Ksenia is a post-doc in our group, she steers the acquisition of new data from registries, supervises the work of PhDs and students, and conducts analyses on stem cell models.
+Ksenia is a researcher in our group, she steers the acquisition of new data from registries as well as the interpretation of biobank-scale omic data. She supervises the work of PhDs and students, and conducts analyses on stem cell models.
