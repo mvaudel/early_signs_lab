@@ -2,7 +2,7 @@
 name: Shania Muganga
 image: images/members/shania.png
 description: Master's student
-role: alumnistudent
+role: alumni
 affiliation: University of Bergen
 ---
 

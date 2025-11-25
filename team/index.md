@@ -36,6 +36,7 @@ Some pictures of the team in action.
 {% include figure.html image="images/Team.jpg" %}
 {% include figure.html image="images/team/presentation_1.jpg" %}
 {% include figure.html image="images/team/presentation_2.jpg" %}
+{% include figure.html image="images/team/discussion.jpg" %}
 
 {% endcapture %}
 
